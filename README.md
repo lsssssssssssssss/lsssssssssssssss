@@ -26,13 +26,13 @@
           <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
+          [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ekfm6901})](https://solved.ac/{ekfm6901})
           </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@ekfm8581> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@ekfm8581"> </a>
          <a href=mailto:ekfm6901@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:ekfm6901@gmail.com"> </a>
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj="ekfm6901@gmail.com")](https://solved.ac/"ekfm6901@gmail.com"/)
           </div>  <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsssssssssssssss%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
