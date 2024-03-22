@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  <li> 저는 항상 성장하고 회사에 필요로 하는 개발자입니다. 저는 배우는 것이 즐겁습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  <li> 저는 항상 성장하고 회사에 필요로 하는 개발자를 희망합니다. 저는 배우는 것이 즐겁습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -24,6 +24,8 @@
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
