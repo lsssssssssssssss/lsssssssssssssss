@@ -26,7 +26,7 @@
           <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
-          [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ekfm6901})](https://solved.ac/{ekfm6901})
+          [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekfm6901)](https://solved.ac/ekfm6901/)
           </div>
     </div>
     <div style="text-align: left;">
