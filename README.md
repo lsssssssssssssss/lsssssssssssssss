@@ -28,11 +28,15 @@
           <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;">
-	<h2>📝 Projects </h2>
-	    <div><a href="https://github.com/dlehdwo01/FOOD114-TEAMPROJECT-">FOOD114</a></div>
-	    <div><a href="https://github.com/lsssssssssssssss/miniProject1">Fitness Shop</a></div>
+    <div style="max-width: 600px; margin: 0 auto; padding: 20px; background-color: #fff; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); text-align: left;">
+    <h2 style="color: #333;">📝 Projects</h2>
+    <div>
+        <a href="https://github.com/dlehdwo01/FOOD114-TEAMPROJECT-" style="display: block; padding: 10px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px; transition: background-color 0.3s ease;">FOOD114</a>
     </div>
+    <div>
+        <a href="https://github.com/lsssssssssssssss/miniProject1" style="display: block; padding: 10px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px; transition: background-color 0.3s ease;">Fitness Shop</a>
+    </div>
+	</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@ekfm8581> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@ekfm8581"> </a>
