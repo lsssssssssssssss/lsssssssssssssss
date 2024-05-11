@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  <li> 저는 항상 성장하고 회사에 필요로 하는 개발자를 희망합니다. 저는 배우는 것이 즐겁습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  <li> 저는 항상 성장하는 우수한 개발자를 희망합니다. 저는 배우는 것이 즐겁습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -27,6 +27,11 @@
           <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
           </div>
+    </div>
+    <div style="text-align: left;">
+	<h2>📝 Projects </h2>
+	    <div>FOOD114<a href="https://github.com/dlehdwo01/FOOD114-TEAMPROJECT-">FOOD114</a></div>
+	    <div>Fitness Shop<a href="https://github.com/lsssssssssssssss/miniProject1">Fitness Shop</a></div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
