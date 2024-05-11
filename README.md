@@ -30,8 +30,8 @@
     </div>
     <div style="text-align: left;">
 	<h2>📝 Projects </h2>
-	    <div>FOOD114<a href="https://github.com/dlehdwo01/FOOD114-TEAMPROJECT-">FOOD114</a></div>
-	    <div>Fitness Shop<a href="https://github.com/lsssssssssssssss/miniProject1">Fitness Shop</a></div>
+	    <div><a href="https://github.com/dlehdwo01/FOOD114-TEAMPROJECT-">FOOD114</a></div>
+	    <div><a href="https://github.com/lsssssssssssssss/miniProject1">Fitness Shop</a></div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
