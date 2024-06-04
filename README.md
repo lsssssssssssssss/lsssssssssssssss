@@ -35,7 +35,7 @@
 	<h2>📝 Projects </h2>
 	    <div>🍔<a style="font-size: 25px;" href="https://github.com/lsssssssssssssss/FOOD114">FOOD114</a></div>
 	    <div>🏃‍♂️<a style="font-size: 25px;" href="https://github.com/lsssssssssssssss/miniProject1">Fitness Shop</a></div>
-	    <div>😄<a style="font-size: 25px;" href="https://github.com/lsssssssssssssss/sns_project.git"></a></div>
+	    <div>😄<a style="font-size: 25px;" href="https://github.com/lsssssssssssssss/sns_project.git">SNS SITE</a></div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
