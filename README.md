@@ -32,8 +32,13 @@
           </div>
     </div>
     <div style="text-align: left;">
+	<h2>💡 Portfolio </h2>
+	    <div>😎<a style="font-size: 25px;" href="https://bit.ly/3K443HT">포트폴리오</a></div>
+    </div>
+    <div style="text-align: left;">
 	<h2>📝 Projects </h2>
 	    <div>🍔<a style="font-size: 25px;" href="https://github.com/lsssssssssssssss/FOOD114">FOOD114</a></div>
+	    <div>🥰<a style="font-size: 25px;" href="https://github.com/vvyejivv/wooki.git">WOOKI</a></div>
 	    <div>🏃‍♂️<a style="font-size: 25px;" href="https://github.com/lsssssssssssssss/miniProject1">Fitness Shop</a></div>
 	    <div>😄<a style="font-size: 25px;" href="https://github.com/lsssssssssssssss/sns_project.git">SNS SITE</a></div>
     </div>
